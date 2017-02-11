@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: django-newsletter
+Version: 0.3.0
+Summary: A basic, reusable newsletter subscription (opt-in/out) application.
+Home-page: http://github.com/howiworkdaily/django-newsletter/tree/master
+Author: Kevin Fricovsky
+Author-email: kfricovsky@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: Alpha
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Framework :: Django
